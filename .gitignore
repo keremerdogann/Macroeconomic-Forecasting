@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+data/raw/*
+!data/raw/.keep
+data/processed/*
+!data/processed/.keep
+models/saved_models/*
+!models/saved_models/.keep
